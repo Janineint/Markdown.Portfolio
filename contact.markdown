@@ -1,6 +1,8 @@
 # How to reach me #
 
-[Janine Intrakul](https://www.linkedin.com/in/janineint/) On Linkdin
+[About Me](https://janineint.github.io/about-me/#)
+[LinkedIn](https://www.linkedin.com/in/janinein/) On Linkdin
+[Github](https://github.com/Janineint) On Github
 
 
 [Home](./index.markdown)
